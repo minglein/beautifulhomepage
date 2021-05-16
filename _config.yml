@@ -15,9 +15,8 @@ author: Mingming Wu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  External links:
+    - Me at BMRR: "https://bmrr.de/people/"
   Author's home: "https://imagiming.com"
 
 # --- Logo --- #
