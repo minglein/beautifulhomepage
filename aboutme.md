@@ -4,8 +4,8 @@ title: MR physicist
 subtitle: and lifelong student
 cover-img: /assets/img/Prio5beta.jpg
 ---
-*"Education is not the filling of a pail, but the lighting of a fire."*
-	 **- William Bulter Yeats**
+[comment]:#*"Education is not the filling of a pail, but the lighting of a fire."*
+[comment]:#	 **- William Bulter Yeats**
 
 
 
