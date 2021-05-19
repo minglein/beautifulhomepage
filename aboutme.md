@@ -4,9 +4,6 @@ title: MR physicist
 subtitle: and lifelong student
 cover-img: /assets/img/Prio5beta.jpg
 ---
-[comment]:#*"Education is not the filling of a pail, but the lighting of a fire."*
-[comment]:#	 **- William Bulter Yeats**
-
 
 
 My name is Mingming Wu. Currently, I am a postdoctoral researcher at Klinikum rechts der Isar, at the Technical University of Munich. In parallel, I am in my 4th year of medical training.
